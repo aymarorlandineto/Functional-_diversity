@@ -1,5 +1,6 @@
 traits_clean.xlsx - The final cleaned trait matrix with species in the rows and ecotraits in columns.
-traits_descriptions - Descriptions of 33 ecotraits traits associated with  seven categories (adult diet, body size,
+
+traits_descriptions.xlsx - Descriptions of 33 ecotraits traits associated with  seven categories (adult diet, body size,
 water chemistry, macrohabitat, mesohabitat, microhabitat and migration)
 
 
